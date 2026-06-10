@@ -1,7 +1,7 @@
 
 ---
 
-![Profile views](https://img.shields.io/badge/Profile_views-blue?style=for-the-badge&logo=github&labelColor=555555)
+![Profile views](https://visitor-badge.la/badge?page_id=robertbrito1.robertbrito1&style=for-the-badge)
 
 # ¡Hola, soy Robert Brito! 👋
 

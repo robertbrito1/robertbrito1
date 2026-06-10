@@ -1,19 +1,55 @@
 # ¡Hola, soy Robert Brito! 👋
 
-¡Bienvenido a mi perfil de GitHub! Soy un desarrollador apasionado y con ganas de aprender cosas nuevas cada día.
-
-## 🚀 Sobre mí
-*   🔭 Actualmente estoy trabajando en mejorar mis habilidades de desarrollo.
-*   🌱 Estoy aprendiendo nuevas tecnologías.
-*   📫 Puedes contactarme a través de mi [LinkedIn](www.linkedin.com/in/robertbrito) o por correo electrónico.
-
-## 🛠 Tecnologías y Herramientas
-Aquí te dejo una vista rápida de las tecnologías que utilizo:
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robertbrito1&layout=compact&theme=radical)
-
-## 📊 Mis Estadísticas
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=robertbrito1&show_icons=true&theme=radical)
+Desarrollador Fullstack apasionado por la mejora continua, el código limpio y la resolución eficiente de problemas. Con experiencia práctica en el desarrollo de aplicaciones web bajo arquitecturas mantenibles y un enfoque constante en aportar valor real a equipos dinámicos.
 
 ---
 
+## 🚀 Sobre mí
+*   🔭 Actualmente trabajando en **Enova IT** como Desarrollador Web, aplicando Arquitectura Hexagonal y DDD.
+*   🌱 Profundizando en **Arquitectura de Software** y optimización de sistemas backend.
+*   🎓 Estudiante de **DAW (Desarrollo de Aplicaciones Web)** en IES Luis Braille.
+*   📫 Contáctame: [britocanha@hotmail.com](mailto:britocanha@hotmail.com) | [LinkedIn](https://www.linkedin.com/in/robert-brito/)
+
+---
+
+## 🛠 Habilidades Técnicas
+
+### Backend & Frameworks
+*   **Lenguajes:** Python, PHP, JavaScript, TypeScript, SQL.
+*   **Frameworks:** Django, Laravel, CodeIgniter.
+
+### Frontend & Diseño
+*   **Tecnologías:** HTML, CSS, TailwindCSS, Bootstrap, Astro, XML.
+*   **Diseño:** Figma.
+
+### Herramientas & Infraestructura
+*   **Control de versiones:** Git, GitHub, GitLab.
+*   **Cloud:** AWS.
+*   **Arquitectura:** DDD, Arquitectura Hexagonal, Refactorización.
+
+---
+
+## ⭐ Proyectos Destacados
+
+### 🍽️ Sistema de Gestión de Reservas
+Plataforma profesional para la gestión automatizada de reservas en el sector hostelería.
+*   **Enfoque:** Optimización de procesos operativos y reducción de errores en asignación de mesas.
+*   **Tecnologías:** Django, PostgreSQL.
+*   [Ver Sistema en Vivo](https://reservas-flax-nine.vercel.app/accounts/login/?next=/)
+
+### 🛍️ Tienda Indie
+Plataforma e-commerce dedicada a la promoción y venta de productos independientes.
+*   **Enfoque:** Desarrollo de flujo de ventas y catálogo dinámico.
+
+### 💼 Portafolio Profesional
+Web optimizada para la centralización y despliegue de proyectos web.
+*   **Enfoque:** Arquitectura frontend moderna y despliegue continuo.
+
+---
+
+## 📈 Estadísticas
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=robertbrito1&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robertbrito1&layout=compact&theme=radical)
+
+---
+*Gracias por visitar mi perfil. Siempre abierto a nuevos retos y colaboraciones.*

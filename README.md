@@ -1,4 +1,4 @@
-![Contador de visitas](https://visitor-badge.la/badge?page_id=robertbrito1.robertbrito1)
+![Contador de visitas](https://hit.yeyp.ru/hit?id=robertbrito1&nd=5&style=social)
 
 # ¡Hola, soy Robert Brito! 👋
 

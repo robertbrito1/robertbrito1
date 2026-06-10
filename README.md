@@ -1,16 +1,19 @@
-## Hi there 👋
+# ¡Hola, soy Robert Brito! 👋
 
-<!--
-**robertbrito1/robertbrito1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+¡Bienvenido a mi perfil de GitHub! Soy un desarrollador apasionado por crear soluciones tecnológicas y aprender cosas nuevas cada día.
 
-Here are some ideas to get you started:
+## 🚀 Sobre mí
+*   🔭 Actualmente estoy trabajando en mejorar mis habilidades de desarrollo.
+*   🌱 Estoy aprendiendo nuevas tecnologías para crear aplicaciones más eficientes.
+*   📫 Puedes contactarme a través de mi [LinkedIn](www.linkedin.com/in/robert-brito-) o por correo electrónico.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tecnologías y Herramientas
+Aquí te dejo una vista rápida de las tecnologías que utilizo:
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robertbrito1&layout=compact&theme=radical)
+
+## 📊 Mis Estadísticas
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=robertbrito1&show_icons=true&theme=radical)
+
+---
+*¿Quieres conectar? ¡No dudes en revisar mis repositorios o enviarme un mensaje!*

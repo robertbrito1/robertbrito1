@@ -1,7 +1,7 @@
 
 ---
 
-![Profile views](https://visitor-badge.la/badge?page_id=robertbrito1.robertbrito1&style=for-the-badge)
+![Profile views](https://komarev.com/ghpvc/?username=robertbrito1&style=for-the-badge&color=blue)
 
 # ¡Hola, soy Robert Brito! 👋
 

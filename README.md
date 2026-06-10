@@ -1,6 +1,7 @@
 
-### 👣 Visitantes del perfil
-![Contador de visitas](https://hit.yeyp.ru/hit?id=robertbrito1&nd=5&style=social)
+---
+
+![Profile views](https://img.shields.io/badge/Profile_views-blue?style=for-the-badge&logo=github&labelColor=555555)
 
 # ¡Hola, soy Robert Brito! 👋
 

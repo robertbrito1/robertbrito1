@@ -6,8 +6,8 @@ Desarrollador Fullstack apasionado por la mejora continua, el código limpio y l
 
 ## 🚀 Sobre mí
 *   🔭 Actualmente trabajando en **Enova IT** como Desarrollador Web, aplicando Arquitectura Hexagonal y DDD.
-*   🌱 Profundizando en **Arquitectura de Software** y optimización de sistemas backend.
-*   🎓 Estudiante de **DAW (Desarrollo de Aplicaciones Web)** en IES Luis Braille.
+*   🌱 Profundizando en **Tecnologias de front end**.
+*   🎓 Estudiante de **DAM (Desarrollo de aplicaciones multiplataforma)** en FPEuroformac.
 *   📫 Contáctame: [britocanha@hotmail.com](mailto:britocanha@hotmail.com) | [LinkedIn](https://www.linkedin.com/in/robert-brito/)
 
 ---

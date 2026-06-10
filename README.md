@@ -6,30 +6,47 @@ Desarrollador Fullstack con fuerte orientación hacia el **Frontend Moderno**, a
 
 ## 🚀 Sobre mí
 *   🔭 Actualmente enfocado en potenciar mis habilidades en **Frontend y Tecnologías Web modernas**.
-*   🌱 Profundizando en **Astro** para la creación de sitios de alto rendimiento y mejorando mi stack de **TypeScript**.
 *   🎯 Buscando mi próxima oportunidad profesional para aportar valor en proyectos frontend o fullstack.
 *   📫 Contáctame: [britocanha@hotmail.com](mailto:britocanha@hotmail.com) | [LinkedIn](https://www.linkedin.com/in/robert-brito/)
 
 ---
 
-## 🛠 Stack Tecnológico
+## 🧰 Stack principal
 
-### Frontend & UI (Mi enfoque principal)
-*   **Lenguajes:** JavaScript (ES6+), TypeScript.
-*   **Frameworks & SSG:** **Astro**, TailwindCSS, Bootstrap.
-*   **Diseño:** Figma, maquetación responsiva.
+### Frontend
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Astro](https://img.shields.io/badge/Astro-FF5D01?style=for-the-badge&logo=astro&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-### Backend & Integración
-*   **Lenguajes:** PHP, Python.
-*   **Frameworks:** Django, Laravel, CodeIgniter.
-*   **APIs:** Diseño y consumo de servicios RESTful.
+### Backend
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 
-### Herramientas & Entorno
-*   **Control de versiones:** Git, GitHub, GitLab.
-*   **Cloud:** AWS.
-*   **Workflow:** Desarrollo bajo metodologías ágiles y enfoque en código limpio.
+### Bases de datos & Herramientas
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 ---
+
+## 🏗️ Intereses técnicos
+* Desarrollo Frontend moderno con Astro y TypeScript.
+* Arquitectura de aplicaciones web escalables.
+* Optimización y rendimiento web.
+* Modelado de bases de datos.
+* Refactorización y calidad de código.
+
+## 📌 Actualmente profundizando en
+* Arquitectura de Frontend avanzada.
+* **React:** Ciclo de vida, Hooks avanzados y arquitectura de aplicaciones escalables.
+* **NestJS:** Desarrollo de arquitecturas Backend robustas, modulares y basadas en TypeScript.
+* Optimización de rendimiento con Astro.
+* Integración de servicios en la nube (AWS).
+* Buenas prácticas de diseño UI/UX con Tailwind.
+* 
 
 ## ⭐ Proyectos Destacados
 

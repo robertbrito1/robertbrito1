@@ -1,3 +1,5 @@
+![Contador de visitas](https://visitor-badge.la/badge?page_id=robertbrito1.robertbrito1)
+
 # ¡Hola, soy Robert Brito! 👋
 
 Desarrollador Fullstack con fuerte orientación hacia el **Frontend Moderno**, apasionado por la creación de interfaces de usuario rápidas, accesibles y escalables. Cuento con una base técnica sólida en el Backend, lo que me permite comprender el ciclo completo del desarrollo de software y trabajar eficazmente en equipos multidisciplinarios.

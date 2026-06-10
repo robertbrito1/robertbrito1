@@ -7,7 +7,7 @@ Desarrollador Fullstack con fuerte orientación hacia el **Frontend Moderno**, a
 ## 🚀 Sobre mí
 *   🔭 Actualmente enfocado en potenciar mis habilidades en **Frontend y Tecnologías Web modernas**.
 *   🎯 Buscando mi próxima oportunidad profesional para aportar valor en proyectos frontend o fullstack.
-*   📫 Contáctame: [britocanha@hotmail.com](mailto:britocanha@hotmail.com) | [LinkedIn]([www.linkedin.com/in/robertbrito/])
+*   📫 Contáctame: [britocanha@hotmail.com](mailto:britocanha@hotmail.com) | [LinkedIn](https://www.linkedin.com/in/robertbrito/)
 
 ---
 

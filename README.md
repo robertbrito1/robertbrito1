@@ -1,31 +1,33 @@
 # ¡Hola, soy Robert Brito! 👋
 
-Desarrollador Fullstack apasionado por la mejora continua, el código limpio y la resolución eficiente de problemas. Con experiencia práctica en el desarrollo de aplicaciones web bajo arquitecturas mantenibles y un enfoque constante en aportar valor real a equipos dinámicos.
+Desarrollador Fullstack con fuerte orientación hacia el **Frontend Moderno**, apasionado por la creación de interfaces de usuario rápidas, accesibles y escalables. Cuento con una base técnica sólida en el Backend, lo que me permite comprender el ciclo completo del desarrollo de software y trabajar eficazmente en equipos multidisciplinarios.
 
 ---
 
 ## 🚀 Sobre mí
-*   🔭 Actualmente trabajando en **Enova IT** como Desarrollador Web, aplicando Arquitectura Hexagonal y DDD.
-*   🌱 Profundizando en **Tecnologias de front end**.
-*   🎓 Estudiante de **DAM (Desarrollo de aplicaciones multiplataforma)** en FPEuroformac.
+*   🔭 Actualmente enfocado en potenciar mis habilidades en **Frontend y Tecnologías Web modernas**.
+*   🌱 Profundizando en **Astro** para la creación de sitios de alto rendimiento y mejorando mi stack de **TypeScript**.
+*   🎯 Buscando mi próxima oportunidad profesional para aportar valor en proyectos frontend o fullstack.
 *   📫 Contáctame: [britocanha@hotmail.com](mailto:britocanha@hotmail.com) | [LinkedIn](https://www.linkedin.com/in/robert-brito/)
 
 ---
 
-## 🛠 Habilidades Técnicas
+## 🛠 Stack Tecnológico
 
-### Backend & Frameworks
-*   **Lenguajes:** Python, PHP, JavaScript, TypeScript, SQL.
+### Frontend & UI (Mi enfoque principal)
+*   **Lenguajes:** JavaScript (ES6+), TypeScript.
+*   **Frameworks & SSG:** **Astro**, TailwindCSS, Bootstrap.
+*   **Diseño:** Figma, maquetación responsiva.
+
+### Backend & Integración
+*   **Lenguajes:** PHP, Python.
 *   **Frameworks:** Django, Laravel, CodeIgniter.
+*   **APIs:** Diseño y consumo de servicios RESTful.
 
-### Frontend & Diseño
-*   **Tecnologías:** HTML, CSS, TailwindCSS, Bootstrap, Astro, XML.
-*   **Diseño:** Figma.
-
-### Herramientas & Infraestructura
+### Herramientas & Entorno
 *   **Control de versiones:** Git, GitHub, GitLab.
 *   **Cloud:** AWS.
-*   **Arquitectura:** DDD, Arquitectura Hexagonal, Refactorización.
+*   **Workflow:** Desarrollo bajo metodologías ágiles y enfoque en código limpio.
 
 ---
 
@@ -33,17 +35,19 @@ Desarrollador Fullstack apasionado por la mejora continua, el código limpio y l
 
 ### 🍽️ Sistema de Gestión de Reservas
 Plataforma profesional para la gestión automatizada de reservas en el sector hostelería.
-*   **Enfoque:** Optimización de procesos operativos y reducción de errores en asignación de mesas.
+*   **Enfoque:** Optimización de procesos operativos y experiencia de usuario.
 *   **Tecnologías:** Django, PostgreSQL.
 *   [Ver Sistema en Vivo](https://reservas-flax-nine.vercel.app/accounts/login/?next=/)
 
-### 🛍️ Tienda Indie
-Plataforma e-commerce dedicada a la promoción y venta de productos independientes.
-*   **Enfoque:** Desarrollo de flujo de ventas y catálogo dinámico.
+### 🎨 Diseño UI con Tailwind
+Proyecto enfocado en arquitectura de componentes y sistemas de diseño eficientes.
+*   **Enfoque:** Maquetación moderna, reutilización de clases y diseño responsivo.
+*   [Ver Diseño en Vivo](https://robertbrito1.github.io/tailwind/)
 
-### 💼 Portafolio Profesional
-Web optimizada para la centralización y despliegue de proyectos web.
-*   **Enfoque:** Arquitectura frontend moderna y despliegue continuo.
+### 🎮 Juego en TypeScript
+Ejercicio académico migrado a TypeScript para garantizar tipado estático y mantenibilidad.
+*   **Enfoque:** Lógica de juego, POO y tipado avanzado.
+*   [Jugar ahora](https://juego-con-typescript.onrender.com)
 
 ---
 
@@ -52,4 +56,4 @@ Web optimizada para la centralización y despliegue de proyectos web.
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robertbrito1&layout=compact&theme=radical)
 
 ---
-*Gracias por visitar mi perfil. Siempre abierto a nuevos retos y colaboraciones.*
+*Gracias por visitar mi perfil. Siempre abierto a nuevas oportunidades para colaborar en proyectos Frontend desafiantes.*

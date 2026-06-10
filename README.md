@@ -5,7 +5,7 @@
 ## 🚀 Sobre mí
 *   🔭 Actualmente estoy trabajando en mejorar mis habilidades de desarrollo.
 *   🌱 Estoy aprendiendo nuevas tecnologías para crear aplicaciones más eficientes.
-*   📫 Puedes contactarme a través de mi [LinkedIn](www.linkedin.com/in/robert-brito-) o por correo electrónico.
+*   📫 Puedes contactarme a través de mi [LinkedIn](www.linkedin.com/in/robertbrito) o por correo electrónico.
 
 ## 🛠 Tecnologías y Herramientas
 Aquí te dejo una vista rápida de las tecnologías que utilizo:

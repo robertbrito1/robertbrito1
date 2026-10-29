@@ -23,12 +23,16 @@ Desarrollador Fullstack con fuerte orientación hacia el **Frontend Moderno**, a
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Astro](https://img.shields.io/badge/Astro-FF5D01?style=for-the-badge&logo=astro&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![JSON](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white)
 ### Backend
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 
 ### Bases de datos & Herramientas
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -46,7 +50,7 @@ Desarrollador Fullstack con fuerte orientación hacia el **Frontend Moderno**, a
 
 ## 📌 Actualmente profundizando en
 * Arquitectura de Frontend avanzada.
-* **React:** Ciclo de vida, Hooks avanzados y arquitectura de aplicaciones escalables.
+* **React y NextJS:** Ciclo de vida, Hooks avanzados y arquitectura de aplicaciones escalables.
 * **NestJS:** Desarrollo de arquitecturas Backend robustas, modulares y basadas en TypeScript.
 * Optimización de rendimiento con Astro.
 * Integración de servicios en la nube (AWS).

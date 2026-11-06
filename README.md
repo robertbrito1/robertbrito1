@@ -23,8 +23,6 @@ Desarrollador Fullstack con fuerte orientación hacia el **Frontend Moderno**, a
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Astro](https://img.shields.io/badge/Astro-FF5D01?style=for-the-badge&logo=astro&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![JSON](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white)
 ### Backend
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
@@ -38,6 +36,11 @@ Desarrollador Fullstack con fuerte orientación hacia el **Frontend Moderno**, a
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+
+### 📚 Aprendiendo
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 
 ---
 
@@ -55,25 +58,30 @@ Desarrollador Fullstack con fuerte orientación hacia el **Frontend Moderno**, a
 * Optimización de rendimiento con Astro.
 * Integración de servicios en la nube (AWS).
 * Buenas prácticas de diseño UI/UX con Tailwind.
-* 
 
 ## ⭐ Proyectos Destacados
 
-### 🍽️ Sistema de Gestión de Reservas
-Plataforma profesional para la gestión automatizada de reservas en el sector hostelería.
-*   **Enfoque:** Optimización de procesos operativos y experiencia de usuario.
-*   **Tecnologías:** Django, PostgreSQL.
-*   [Ver Sistema en Vivo](https://reservas-flax-nine.vercel.app/accounts/login/?next=/)
+### 🍽️ [Gestor de Reservas para Restaurante](https://github.com/robertbrito1/reservas)
+App que desarrollé para el bar donde trabajaba como alternativa a un software de pago (unos 100 €/mes). Mapa de mesas por zona y turno, reservas de grupo, control para no reservar dos veces la misma mesa y exportación del listado a PDF para los camareros.
+*   **Tecnologías:** Python, Django, PostgreSQL, ReportLab, Bootstrap · desplegada en Vercel.
+*   [Ver demo](https://reservas-flax-nine.vercel.app/)
 
-### 🎨 Diseño UI con Tailwind
-Proyecto enfocado en arquitectura de componentes y sistemas de diseño eficientes.
-*   **Enfoque:** Maquetación moderna, reutilización de clases y diseño responsivo.
-*   [Ver Diseño en Vivo](https://robertbrito1.github.io/tailwind/)
+### 📈 [Dashboard de Criptomonedas](https://github.com/robertbrito1/api_cripto)
+Consumo de una API REST externa (CoinGecko) desde PHP con cURL, con control de errores HTTP y del límite de peticiones.
+*   **Tecnologías:** PHP, cURL, JSON, TradingView widgets.
 
-### 🎮 Juego en TypeScript
-Ejercicio académico migrado a TypeScript para garantizar tipado estático y mantenibilidad.
-*   **Enfoque:** Lógica de juego, POO y tipado avanzado.
+### ⚔️ [Juego de combate por turnos en TypeScript](https://github.com/robertbrito1/juego_con_typescript)
+Juego hecho en clase en JavaScript que migré a TypeScript. POO con herencia, partidas guardadas en `localStorage`/`sessionStorage` y carga de secciones con `fetch` y promesas.
+*   **Tecnologías:** TypeScript, Bootstrap.
 *   [Jugar ahora](https://juego-con-typescript.onrender.com)
+
+### 🎨 [Landing Page con Tailwind CSS](https://github.com/robertbrito1/tailwind)
+Práctica de maquetación con Tailwind v4: componentes propios con `@apply` para mantener el HTML limpio, tema con `@theme` y diseño responsive.
+*   [Ver en vivo](https://robertbrito1.github.io/tailwind/)
+
+## 🔜 Próximamente
+*   ⚛️ **Proyecto con React y Next.js**, en el que estoy empezando a trabajar.
+*   🏛️ **Web portafolio para un arquitecto** ([chipi_web](https://github.com/robertbrito1/chipi_web)).
 
 ---
 

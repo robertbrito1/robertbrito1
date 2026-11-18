@@ -90,4 +90,4 @@ Práctica de maquetación con Tailwind v4: componentes propios con `@apply` para
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robertbrito1&layout=compact&theme=radical)
 
 ---
-*Gracias por visitar mi perfil. Siempre abierto a nuevas oportunidades para colaborar en proyectos Frontend desafiantes.*
+*Gracias por visitar mi perfil. Siempre abierto a nuevas oportunidades para colaborar en proyectos*
